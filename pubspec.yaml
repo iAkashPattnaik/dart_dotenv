@@ -1,0 +1,15 @@
+name: dart_dotenv
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+repository: https://github.com/BLUE-DEVIL1134/dart_dotenv
+documentation: https://github.com/BLUE-DEVIL1134/dart_dotenv/docs
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  colorize: ^3.0.0
+
+dev_dependencies:
+  pedantic: ^1.11.1
+  test: ^1.17.10

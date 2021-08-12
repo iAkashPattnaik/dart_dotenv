@@ -1,5 +1,5 @@
 name: dart_dotenv
-description: A starting point for Dart libraries or applications.
+description: A simple bridge between dotenv and dartlang.
 version: 1.0.0
 repository: https://github.com/BLUE-DEVIL1134/dart_dotenv
 documentation: https://github.com/BLUE-DEVIL1134/dart_dotenv/docs

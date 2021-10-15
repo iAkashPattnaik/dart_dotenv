@@ -31,4 +31,4 @@ main(List<String> args) {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: htts://github.com/BLUE-DEVIL1134/dart_dotenv/issues
+[tracker]: https://github.com/BLUE-DEVIL1134/dart_dotenv/issues

@@ -1,8 +1,8 @@
 name: dart_dotenv
-description: A simple bridge between dotenv and dartlang.
-version: 1.0.1
+description: A simple bridge between dotenv and dartlang. Depends completely on file-system.
+version: 1.0.2
 repository: https://github.com/BLUE-DEVIL1134/dart_dotenv
-documentation: https://github.com/BLUE-DEVIL1134/dart_dotenv/docs
+documentation: https://github.com/BLUE-DEVIL1134/dart_dotenv/tree/main#readme
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
